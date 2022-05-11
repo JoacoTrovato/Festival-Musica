@@ -11,7 +11,8 @@
   "author": "Joaquín Andrés Trovato",
   "license": "ISC",
   "devDependencies": {
-    "cssnano": "^5.1.0",
+    "autoprefixer": "^10.4.7",
+    "cssnano": "^5.1.7",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-avif": "^1.0.1",
@@ -27,6 +28,7 @@
     "gulp-sourcemaps": "^3.0.0",
     "gulp-terser-js": "^5.2.2",
     "gulp-webp": "^4.0.1",
+    "postcss": "^8.4.13",
     "sass": "^1.49.9",
     "terser": "^4.8.0"
   }
